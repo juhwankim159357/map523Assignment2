@@ -1,4 +1,5 @@
 {
+   "tickets":[
    {
       "type":"Balcony Level",
       "price":1170,
@@ -14,4 +15,5 @@
       "price":27777,
       "inventory":15
    }
+  ]
 }
