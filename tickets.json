@@ -1,10 +1,7 @@
-{
-  "Tickets":
-  [{
-    "type":"Balcony Level",
+{ "type":"Balcony Level",
     "price":1170,
     "inventory":12
-  },
+},
    {
      "type":"Lower Level",
     "price":10434,
@@ -15,5 +12,5 @@
     "price":27777,
     "inventory":15
    }
-  ]
-}
+  
+
