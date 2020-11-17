@@ -1,8 +1,8 @@
 {
    "tickets":[
    {
-      "type":"Balcony Level3",
-      "price":1160,
+      "type":"Balcony Level",
+      "price":1170,
       "inventory":12
    },
    {
